@@ -1,0 +1,38 @@
+{
+  "short_name": "Music-App",
+  "name": "Music-App",
+  "start_url": "./?utm_source=web_app_manifest",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#383737",
+  "orientation":"portrait",
+   "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./icons8-musicalmente-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "./favicon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons8-musicalmente-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "./icons8-musicalmente-240.png",
+      "type": "image/png",
+      "sizes": "240x240"
+    },
+   
+    {
+      "src": "./icons8-musicalmente-480.png",
+      "type": "image/png",
+      "sizes": "480x480"
+    }	  ]
+}
